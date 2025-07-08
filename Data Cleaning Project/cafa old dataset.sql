@@ -1,0 +1,1 @@
+select * from cafe_sales_dirty
